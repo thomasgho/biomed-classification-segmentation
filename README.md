@@ -6,11 +6,11 @@ Due to the inherent difficulty of identifying capsules, a supervised DenseNet is
 
 
 
-Ground Truth
+Ground Truth:
 ![alt text](https://github.com/thomasgho/biomed-classification-segmentation/blob/main/truth_overlay.png?raw=true)
 
 
 
-Prediction
+Prediction:
 ![alt text](https://github.com/thomasgho/biomed-classification-segmentation/blob/main/pred_overlay.png?raw=true)
 
