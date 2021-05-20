@@ -1,5 +1,4 @@
-# biomed-classification-segmentation
-DenseNet classification and Residual UNet segmention for ultrasound images of prostate gland capsules 
+# Prostate Ultrasound Classification-Segmentation
 
 A supervised 2D image segmentation tool for transrectal B-mode ultrasound images of prostate gland capsules. Refer here.
 
